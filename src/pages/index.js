@@ -30,15 +30,6 @@ const IndexPage = () => {
         </p>
         <h1>{ headline }</h1>
         <p>{ tagline }</p>
-        <h2>Still Getting Started?</h2>
-        <p>
-          Run the following in your terminal!
-        </p>
-        <pre>
-          <code>
-            gatsby new [directory] https://github.com/colbyfayock/gatsby-starter-sass
-          </code>
-        </pre>
       </Container>
     </Layout>
   );
