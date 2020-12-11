@@ -1,0 +1,9 @@
+fragment Page on Page {
+  stage
+  remoteId: id
+  createdAt
+  updatedAt
+  publishedAt
+  headline
+  tagline
+}
