@@ -2,8 +2,9 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
+### [**Demo**](https://pensive-banach-36a148.netlify.app/)
 
-Jumpstart your next Gatsby project with the power of Sass!
+Thanks to [@Colby](https://github.com/colbyfayock) for the open source starter template.
 
 ## What This Includes
 * [Yarn](https://yarnpkg.com/en/)
