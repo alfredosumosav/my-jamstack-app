@@ -18,7 +18,6 @@ const IndexPage = () => {
     }
   `);
   const { headline, tagline } = graphCmsPage;
-  console.log("graphCmsPage", graphCmsPage);
   return (
     <Layout pageName="home">
       <Helmet>
